@@ -33,7 +33,9 @@ Editor: **Michael Thompson**
    intro
    quick_start
    planning_requirements
-   CompilingAndSimulatingWithSpike
+   software_toolchain
+   spike_intro
+   bsp
    corev_env
    cv32_env
    cva6_env
